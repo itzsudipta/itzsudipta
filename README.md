@@ -84,7 +84,11 @@
 
 ## 🏅 Holopin Badge
 
-[![Holopin Badge](https://holopin.io/api/userbadge/cm9fynayq05890clg6zahfxuk)](https://www.holopin.io/userbadge/cm9fynayq05890clg6zahfxuk)
+<p align="center">
+  <a href="https://www.holopin.io/userbadge/cm9fynayq05890clg6zahfxuk">
+    <img src="https://holopin.me/itzsudipta" alt="An image of @itzsudipta's Holopin badges, which is a link to view their full Holopin profile">
+  </a>
+</p>
 
 
 
