@@ -82,7 +82,7 @@
 
 
 
-## 🏅 Holopin Badge
+## 🏅Open Source Contribution Badges
 
 <p align="center">
   <a href="https://www.holopin.io/userbadge/cm9fynayq05890clg6zahfxuk">
