@@ -116,7 +116,7 @@
 
 ## ✨ About Me
 
-Hi there! I'm **Sudipta Sarkar**, an aspiring **Software Developer** with a passion for **AI**, **Cybersecurity**, and **Full-Stack Development**. I am always learning and building new things, and I'm currently focused on projects involving **Machine Learning**, **IoT**, and **Web Development**.
+Hi there! I'm **Sudipta Sarkar**, an aspiring **Software Developer** with a passion for **AI**, **Cybersecurity**, and **Full-Stack Development**. I am always learning and building new things, and I'm currently focused on projects involving **Machine Learning**, and **Web Development**.
 
 I'm an active **open-source contributor** and have recently contributed to **Apertre 2.0**. I believe in the power of collaboration and aim to create impactful projects that benefit others.
 
@@ -145,7 +145,6 @@ Feel free to explore my repositories and connect with me!
 Here are some of the cool projects I’ve worked on:
 
 - **GrooveGraph**: A personalized music analytics dashboard that integrates with Spotify, offering visual insights into your listening habits.
-- **AI-Based Speech Therapy System**: An intelligent speech therapy tool powered by machine learning algorithms.
 - **TicTacGlow**: A dynamic and interactive Tic-Tac-Toe web app built using Flask and JavaScript.
 
 
