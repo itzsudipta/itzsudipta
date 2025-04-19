@@ -26,49 +26,31 @@
 
 ### 📫 Connect with Me
 
-<p align="center">
-  <a href="https://twitter.com/cstsudipta" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20me%20on-Twitter-1DA1F2?logo=twitter&style=flat-square" alt="Twitter" height="30"/>
-  </a>
-  <a href="https://www.linkedin.com/in/infosudipta" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-0077B5?logo=linkedin&style=flat-square" alt="LinkedIn" height="30"/>
-  </a>
-  <a href="https://stackoverflow.com/users/27558345/sudipta-sarkar" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20me%20on-Stack%20Overflow-FE7A16?logo=stack-overflow&style=flat-square" alt="Stack Overflow" height="30"/>
-  </a>
-  <a href="https://medium.com/@info.sudipta.nit" target="_blank">
-    <img src="https://img.shields.io/badge/Read%20my%20posts%20on-Medium-00AB6C?logo=medium&style=flat-square" alt="Medium" height="30"/>
-  </a>
-  <a href="https://github.com/itzsudipta" target="_blank">
-    <img src="https://img.shields.io/badge/Check%20out%20my%20work%20on-GitHub-181717?logo=github&style=flat-square" alt="GitHub" height="30"/>
-  </a>
-</p>
+<p align="center"> <a href="https://twitter.com/cstsudipta" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /> </a> <a href="https://www.linkedin.com/in/infosudipta" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/itzsudipta" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="mailto:info.sudipta.nit@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a> </p>
 
 
 ---
 
 ## 💻 Tech Stack
 
-### Languages
-[![C](https://img.shields.io/badge/Language-C-00599C?logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python)](https://www.python.org/)
-[![HTML](https://img.shields.io/badge/Language-HTML5-E34F26?logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/Language-CSS3-1572B6?logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql)](https://www.mysql.com/)
+🔤 Languages
 
-### Libraries & Frameworks
-[![Numpy](https://img.shields.io/badge/Library-Numpy-013243?logo=numpy)](https://numpy.org/)
-[![Flask](https://img.shields.io/badge/Framework-Flask-000000?logo=flask)](https://flask.palletsprojects.com/en/2.0.x/)
+<p> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> </p>
+📚 Libraries & Frameworks
 
-### API Handling
-[![Postman API](https://img.shields.io/badge/API%20Handling-Postman-FF6C37?logo=postman)](https://www.postman.com/)
+<p> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> </p>
 
-### OS
-[![Linux](https://img.shields.io/badge/OS-Linux-084F9E?logo=linux)](https://www.linux.org/)
+🔌 API Handling
 
-### Version Tools
-[![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/Version%20Control-GitHub-181717?logo=github)](https://github.com/)
+<p> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> </p>
+
+🐧 Operating System
+
+<p> <img src="https://img.shields.io/badge/Linux-084F9E?style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> </p>
+
+🔧 Version Control
+
+<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </p>
 
 
 
