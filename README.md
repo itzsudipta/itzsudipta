@@ -177,32 +177,6 @@ Hi there! I'm **Sudipta Sarkar**, an aspiring **AI & Machine Learning Engineer**
 - **NLP systems** for text analysis and understanding
 - **Full-stack web applications** with Python Flask backend
 
-### 🌟 **My Expertise:**
-- **Machine Learning**: Building and training models for various applications
-- **Computer Vision**: Image processing, object detection, and recognition
-- **Natural Language Processing**: Text analysis, sentiment analysis, and chatbots
-- **Generative AI**: Creating innovative solutions with GANs and neural networks
-- **Web Development**: End-to-end application development
-- **Cybersecurity**: Security-focused development practices
-
-I'm an active **open-source contributor** and have recently contributed to **Apertre 2.0**. I believe in the power of collaboration and aim to create impactful AI solutions that benefit society.
-
----
-
-## 🌐 Contribution Timeline
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=itzsudipta&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 📈 Coding Activity
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-day?username=itzsudipta&theme=tokyonight" />
-</div>
-
 ---
 
 ## 💡 Random Dev Quote
