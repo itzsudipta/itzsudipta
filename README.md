@@ -61,13 +61,11 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 ### ⚙️ **Backend Development**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
@@ -78,19 +76,16 @@
 
 ### 🤖 **Machine Learning & AI**
 <p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
+
 </p>
 
 ### 🧠 **AI & NLP Frameworks**
 <p>
   <img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/🧠_FAISS-00D4AA?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/🔥_Gradio-FF7C00?style=for-the-badge&logoColor=white" />
 </p>
 
 #### 🔗 **Currently Working With**
@@ -174,7 +169,6 @@ Hi there! I'm **Sudipta Sarkar**, an aspiring **AI & Machine Learning Engineer**
 - **AI-powered applications** using LangChain and LangServe
 - **Computer Vision solutions** with OpenCV and Keras
 - **Generative AI models** and GANs for creative applications
-- **NLP systems** for text analysis and understanding
 - **Full-stack web applications** with Python Flask backend
 
 ---
