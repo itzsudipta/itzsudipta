@@ -173,14 +173,6 @@ Hi there! I'm **Sudipta Sarkar**, an aspiring **AI & Machine Learning Engineer**
 
 ---
 
-## 💡 Random Dev Quote
-
-<p align="center">
-  <b><i>“Serving my country, one function at a time 🇮🇳”</i></b>
-</p>
-
----
-
 ## 🔝 Top Contributed Repositories
 
 <p align="center">
