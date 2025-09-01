@@ -250,7 +250,7 @@ Currently navigating through the exciting world of technology as a final year Co
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzsudipta&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 ### 💻 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitzsudipta&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzsudipta&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 
 </div>
 
