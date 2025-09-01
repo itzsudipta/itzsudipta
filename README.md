@@ -68,21 +68,27 @@ console.log(`${developer.name}: ${developer.getCurrentFocus()}`);
 
 ## 🎯 About Me
 
-<div align="center">
-  <img src="mypersonal/typing.gif.gif" width="400">
-
-</div>
-
-> **"I'm not a developer yet, but I'm on my way there!"** 🌱
-
+<table>
+  <tr>
+    <td>
+      
+> **"I'm not a developer yet, but I'm on my way there!"** 🌱  
+      
 Currently navigating through the exciting world of technology as a final year Computer Science student. Every line of code I write, every algorithm I implement, and every project I build brings me one step closer to becoming the developer I aspire to be.
 
 **My Journey So Far:**
-- 🎓 Pursuing B.Tech in Computer Science at Narula Institute of Technology
-- 💻 Learning full-stack web development with modern technologies
-- 🤖 Exploring the fascinating world of Machine Learning and AI
-- 🌟 Contributing to open source projects and growing with the community
-- 📚 Constantly learning, experimenting, and pushing my boundaries
+- 🎓 Pursuing B.Tech in Computer Science at Narula Institute of Technology  
+- 💻 Learning full-stack web development with modern technologies  
+- 🤖 Exploring the fascinating world of Machine Learning and AI  
+- 🌟 Contributing to open source projects and growing with the community  
+- 📚 Constantly learning, experimenting, and pushing my boundaries  
+
+    </td>
+    <td>
+      <img src="mypersonal/typing.gif.gif" width="300">
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🛠️ Tech Arsenal & Skills
