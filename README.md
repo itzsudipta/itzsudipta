@@ -229,30 +229,39 @@ Currently navigating through the exciting world of technology as a final year Co
 </table>
 
 ---
+## 🏅 Open Source Contribution Badges
+
+<p align="center">
+  <a href="https://www.holopin.io/userbadge/cm9fynayq05890clg6zahfxuk">
+    <img src="https://holopin.me/itzsudipta" alt="An image of @itzsudipta's Holopin badges, which is a link to view their full Holopin profile">
+  </a>
+</p>
+
+---
 
 ## 📊 GitHub Analytics & Achievements
 
 <div align="center">
   
 ### 🔥 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=sudiptasarkar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=itzsudipta&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
 
 ### ⚡ GitHub Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudiptasarkar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itzsudipta&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 ### 💻 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudiptasarkar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitzsudipta&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 
 </div>
 
 ### 🏅 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sudiptasarkar&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=itzsudipta&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2" alt="GitHub Trophies" />
 </div>
 
 ### 📈 Contribution Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudiptasarkar&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzsudipta&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -274,5 +283,5 @@ Currently navigating through the exciting world of technology as a final year Co
 </div>
 
 <div align="center">
-  <i>⭐ From <a href="https://github.com/sudiptasarkar">Sudipta Sarkar</a> with ❤️ - Still learning, still growing, still coding!</i>
+  <i>⭐ From <a href="https://github.com/itzsudipta">Sudipta Sarkar</a> with ❤️ - Still learning, still growing, still coding!</i>
 </div>
