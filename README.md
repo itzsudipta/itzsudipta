@@ -242,17 +242,25 @@ Currently navigating through the exciting world of technology as a final year Co
 ## 📊 GitHub Analytics & Achievements
 
 <div align="center">
-  
-### 🔥 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=itzsudipta&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
 
-### ⚡ GitHub Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itzsudipta&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-### 💻 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzsudipta&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=itzsudipta&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzsudipta&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzsudipta&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 </div>
+
 
 ### 🏅 GitHub Trophies
 <div align="center">
