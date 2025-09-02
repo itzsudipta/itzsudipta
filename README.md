@@ -94,7 +94,7 @@ Currently navigating through the exciting world of technology as a final year Co
 ## 🛠️ Tech Arsenal & Skills
 
 <div align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My Tech Stack*** 
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My Tech Stack
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 </div>
 
@@ -140,12 +140,12 @@ Currently navigating through the exciting world of technology as a final year Co
   	<img src="https://img.icons8.com/color/48/000000/javascript.png" width="48" alt="JavaScript" />
     </td>
     <td align="center">
-       <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" width="48" alt="MySQL" />
+       <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" width="70" alt="MySQL Logo" />
     </td>
     <td align="center">
       	<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="48" alt="AWS" /><br/>
   	<img src="https://img.icons8.com/color/48/000000/git.png" width="48" alt="Git" /><br/>
-  	<img src="https://img.icons8.com/ios-glyphs/50/000000/github.png" width="48" alt="GitHub" />
+  	<img src="https://img.icons8.com/?size=100&id=4MhUS4CzoLbx&format=png&color=000000g" width="48" alt="GitHub" />
     </td>
   </tr>
 </table>
@@ -174,14 +174,18 @@ Currently navigating through the exciting world of technology as a final year Co
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="40" alt="Linux">
-      <br/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+    </td>
+    <td align="center">
+      <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="40" alt="GitLab">
+      <br/>
+      <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
     </td>
   </tr>
 </table>
 
 </div>
+
 
 <br/>
 
@@ -204,7 +208,7 @@ Currently navigating through the exciting world of technology as a final year Co
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=800&color=FF6B6B&center=true&vCenter=true&width=600&lines=🚀+Active+in+3+Major+Programs;💡+12+Merged+Pull+Requests;🌟+Building+for+Tomorrow;🤝+Growing+with+Community!" alt="Contribution Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=800&color=FF6B6B&center=true&vCenter=true&width=600&lines=🚀+Active+in+3+Major+Programs;💡+6+Merged+Pull+Requests;🌟+Building+for+Tomorrow;🤝+Growing+with+Community!" alt="Contribution Stats" />
 </div>
 
 <br/>
@@ -220,17 +224,17 @@ Currently navigating through the exciting world of technology as a final year Co
   <tr>
     <td><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30" alt="GSSOC Logo" /> GSSOC'25</td>
     <td>🎯 Active Contributor</td>
-    <td>5+ PRs</td>
+    <td>3+ PRs</td>
   </tr>
   <tr>
     <td><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="30" alt="OSCI Logo" /> OSCI'25</td>
     <td>🚀 Participant</td>
-    <td>4+ PRs</td>
+    <td>2+ PRs</td>
   </tr>
   <tr>
     <td><img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30" alt="Apertre Logo" /> Apertre'25</td>
     <td>💡 Active Member</td>
-    <td>3+ PRs</td>
+    <td>1+ PRs</td>
   </tr>
 </table>
 
@@ -259,8 +263,11 @@ Currently navigating through the exciting world of technology as a final year Co
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzsudipta&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzsudipta&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="350"/>
+    </td>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzsudipta&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="400" height="200"/>
     </td>
   </tr>
 </table>
@@ -268,16 +275,11 @@ Currently navigating through the exciting world of technology as a final year Co
 </div>
 
 
+
 ### 🏅 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=itzsudipta&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2" alt="GitHub Trophies" />
 </div>
-
-### 📈 Contribution Activity
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzsudipta&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
 ---
 
 ## 📊 Repository Analysis
