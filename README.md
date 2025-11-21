@@ -44,12 +44,13 @@ When I'm not decoding algorithms, I mess around with **Backend Development**—b
 <!-- TECH ARSENAL -->
 ## 🛠️ Technical Arsenal
 <div align="center">
-  
+
 | **Frontend Core** | **Backend Architecture** | **Data Science & ML** | **Tools & Workflow** |
 |:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /> | <img src="https://skillicons.dev/icons?i=fastapi,postgres,python&theme=dark" /><br/><img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel&theme=dark" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48" alt="canva" /> |
+| <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /> | <img src="https://skillicons.dev/icons?i=fastapi,postgres,python&theme=dark" /><br/><img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib"/> | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel&theme=dark" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva"/> |
 
 </div>
+
 
 ---
 
@@ -95,15 +96,24 @@ When I'm not decoding algorithms, I mess around with **Backend Development**—b
 ---
 
 <!-- ANALYTICS -->
+<!-- ANALYTICS & FOOTER -->
 ## 📊 Developer Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itzsudipta&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&layout=compact" height="140" alt="Stats" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzsudipta&theme=tokyonight&hide_border=true" height="140" alt="Streak" />
-</div>
-
-<!-- FOOTER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=60&section=footer" alt="Footer" />
-  <p><i>"Algorithms are the poetry of computing."</i><br><a href="https://github.com/itzsudipta"><b>© Sudipta Sarkar</b></a></p>
+  <table border="0" width="95%">
+    <tr>
+      <td align="center" width="50%" style="padding:0;">
+        <img src="https://github-readme-stats.vercel.app/api?username=itzsudipta&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&layout=compact" height="135" alt="Stats" />
+      </td>
+      <td align="center" width="50%" style="padding:0;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzsudipta&theme=tokyonight&hide_border=true" height="135" alt="Streak" />
+      </td>
+    </tr>
+  </table>
+  
+  <br />
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=50&section=footer" width="100%" alt="Footer" />
+  <p style="margin-top: -20px;">
+    <i>"Algorithms are the poetry of computing."</i> — <a href="https://github.com/itzsudipta"><b>Sudipta Sarkar</b></a>
+  </p>
 </div>
