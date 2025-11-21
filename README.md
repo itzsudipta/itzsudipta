@@ -57,39 +57,8 @@ When I'm not decoding algorithms, I mess around with **Backend Development**—b
 <!-- OPEN SOURCE -->
 ## 🌍 Open Source Ecosystem
 <div align="center">
-<table border="0" width="90%">
-  <thead>
-    <tr align="center">
-      <th width="30%">Organization / Program</th>
-      <th width="25%">Role</th>
-      <th width="25%">Status</th>
-      <th width="20%">Impact</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr align="center">
-      <td><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="18" /> <b>GSSOC'25</b></td>
-      <td>Contributor</td>
-      <td><img src="https://img.shields.io/badge/Active-2ea44f?style=flat-square" /></td>
-      <td>3+ PRs</td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="18" /> <b>OSCI'25</b></td>
-      <td>Participant</td>
-      <td><img src="https://img.shields.io/badge/Active-2ea44f?style=flat-square" /></td>
-      <td>2+ PRs</td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="18" /> <b>Apertre'25</b></td>
-      <td>Core Member</td>
-      <td><img src="https://img.shields.io/badge/Collaborating-blue?style=flat-square" /></td>
-      <td>Features</td>
-    </tr>
-  </tbody>
-</table>
-
 <a href="https://www.holopin.io/userbadge/cm9fynayq05890clg6zahfxuk">
-  <img src="https://holopin.me/itzsudipta" alt="Holopin Badges" height="90" />
+  <img src="https://holopin.me/itzsudipta" alt="Holopin Badges" height="100" />
 </a>
 </div>
 
