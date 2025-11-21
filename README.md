@@ -1,303 +1,169 @@
-# 👋 Welcome to TheSudiptaVerse
-
+<!-- HEADER & BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Sudipta%20Sarkar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Learning%20ML%20and%20Web%20full%20stack,%20still%20not%20a%20dev&descAlignY=55&descSize=18" alt="Header" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Sudipta%20Sarkar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Final%20Year%20CS%20Student%20%7C%20Not%20Yet%20a%20Developer&descAlignY=60&descSize=20" 
+    alt="Header" 
+  />
 </div>
 
+<!-- DYNAMIC TYPING TEXT -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=🎓+Final+Year+B.Tech+CS+Student;🚀+Full-Stack+Web+ML+Dev+Enthusiast;💡+Open+Source+Enthusiast" alt="Typing Animation" />
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sudiptasarkar&color=36BCF7&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sudiptasarkar?style=for-the-badge&color=36BCF7" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/sudiptasarkar?style=for-the-badge&color=36BCF7" alt="Stars" />
-</p>
-
----
-
-## 🚀 Meet Sudipta - The Code Explorer
-
-```javascript
-const developer = {
-  name: 'Sudipta Sarkar',
-  status: 'Final Year B.Tech CS Student',
-  university: 'Narula Institute of Technology',
-  
-  expertise: ['Full-Stack Web Dev Enthusiast', 'Machine Learning'],
-  
-  openSource: {
-    programs: ['GSSOC\'25', 'OSCI\'25', 'Apertre\'25'],
-    contributions: '12 merged PRs',
-    impact: 'Building intelligent solutions for tomorrow'
-  },
-  
-  passion: 'Clean code practices & AI-driven productivity',
-  
-  getCurrentFocus() {
-    return 'Serving the nation not in uniform, but in algorithms';
-  },
-  
-  currentMood: () => "Learning, Building, Contributing! 🚀"
-};
-
-console.log(`${developer.name}: ${developer.getCurrentFocus()}`);
-// Output: Sudipta Sarkar: Serving the nation not in uniform, but in algorithms
-```
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-  <a href="mailto:info.sudipta.nit@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" />
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=ML+%26+Web+Enthusiast+%7C+Backend+Explorer"
+      alt="Typing Animation"
+    />
   </a>
+</div>
+
+<br />
+
+<!-- CONNECT HUB (MODERN ICONS) -->
+<div align="center">
   <a href="https://www.linkedin.com/in/infosudipta/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="50" alt="LinkedIn" />
   </a>
+  &nbsp;
+  <a href="mailto:info.sudipta.nit@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="50" alt="Gmail" />
+  </a>
+  &nbsp;
   <a href="https://www.instagram.com/iam_sudipta_sarkar/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="50" alt="Instagram" />
   </a>
-  <a href="https://www.facebook.com/TheSudiptaVerse">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook" />
+  &nbsp;
+  <a href="https://iamsudiptasarkar.me/">
+    <img src="https://img.icons8.com/fluency/96/domain.png" height="50" alt="Portfolio" />
   </a>
 </div>
 
----
+<br />
 
-## 🎯 About Me
+<!-- ABOUT SECTION -->
+## ⚡ Profile Overview
 
 <table>
   <tr>
-    <td>
+    <td width="65%" valign="center">
       
-> **"I'm not a developer yet, but I'm on my way there!"** 🌱  
-      
-Currently navigating through the exciting world of technology as a final year Computer Science student. Every line of code I write, every algorithm I implement, and every project I build brings me one step closer to becoming the developer I aspire to be.
+> **"Some days the math makes sense, some days it feels like a personal attack—but I love the chaos."** 📉📈
 
-**My Journey So Far:**
-- 🎓 Pursuing B.Tech in Computer Science at Narula Institute of Technology  
-- 💻 Learning full-stack web development with modern technologies  
-- 🤖 Exploring the fascinating world of Machine Learning and AI  
-- 🌟 Contributing to open source projects and growing with the community  
-- 📚 Constantly learning, experimenting, and pushing my boundaries  
+Hi, I’m **Sudipta Sarkar**, a Final Year Computer Science student at **Narula Institute of Technology**.
+
+I am currently navigating the intersection of **Machine Learning** and **Web Development**. To be honest, I’m still wrestling with the legendary mathematics that makes ML look like literal wizardry 🧙‍♂️, but I’m enjoying the quest to understand it.
+
+When I'm not decoding algorithms, I mess around with **Backend Development**—building random, unnecessary (but fun!) projects just because my curiosity refuses to sit quietly. I dove into web dev for a simple reason: I prefer showing my work through clean, interactive interfaces rather than explaining things for 20 minutes.
+
+*   🎓 **Current Status:** Final Year B.Tech (CS) @ NiT Kolkata 
+*   🧠 **The Mission:** Turning the "Magic" of ML into logic I understand
+*   🛠️ **The Hobby:** Building fun backend experiments
+*   📈 **The Mindset:** Leveling up daily, step by step
 
     </td>
-    <td>
-      <img src="mypersonal/typing.gif.gif" width="300">
+    <td width="35%" align="center">
+      <!-- YOUR PERSONAL IMAGE -->
+      <img src="mypersonal/typing.gif.gif" width="300" alt="Sudipta Coding" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
+
 ---
 
-## 🛠️ Tech Arsenal & Skills
-
-<div align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My Tech Stack
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-</div>
-
-<br/>
-
-<table align="center">
-  <tr>
-    <td align="center" width="200px">
-      <br/>
-      <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="48" alt="Machine Learning">
-      <br/><br/>
-      <span style="color: #FF6B6B;"><strong>🤖 Machine Learning</strong></span>
-    </td>
-    <td align="center" width="200px">
-      <br/>
-      <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="48" alt="Frontend">
-      <br/><br/>
-      <span style="color: #4ECDC4;"><strong>🌐 Frontend</strong></span>
-    </td>
-    <td align="center" width="200px">
-      <br/>
-      <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="48" alt="Backend">
-      <br/><br/>
-      <span style="color: #45B7D1;"><strong>⚙️ Backend & Database</strong></span>
-    </td>
-    <td align="center" width="200px">
-      <br/>
-      <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="48" alt="DevOps">
-      <br/><br/>
-      <span style="color: #96CEB4;"><strong>☁️ Cloud & DevOps</strong></span>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-     	<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /><br/>
-  	<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /><br/>
-  	<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /><br/>
-  	<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-    </td>
-    <td align="center">
-      	<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="48" alt="HTML5" /><br/>
-  	<img src="https://img.icons8.com/color/48/000000/css3.png" width="48" alt="CSS3" /><br/>
-  	<img src="https://img.icons8.com/color/48/000000/javascript.png" width="48" alt="JavaScript" />
-    </td>
-    <td align="center">
-       <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" width="70" alt="MySQL Logo" />
-    </td>
-    <td align="center">
-      	<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="48" alt="AWS" /><br/>
-  	<img src="https://img.icons8.com/color/48/000000/git.png" width="48" alt="Git" /><br/>
-  	<img src="https://img.icons8.com/?size=100&id=4MhUS4CzoLbx&format=png&color=000000g" width="48" alt="GitHub" />
-    </td>
-  </tr>
-</table>
-
-<br/>
+<!-- TECH ARSENAL -->
+## 🛠️ Technical Arsenal
 
 <div align="center">
   
-### 🛠️ **Development Environment**
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="40" alt="VS Code">
-      <br/>
-      <img src="https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="40" alt="Jupyter">
-      <br/>
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" />
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/kGdUEq4XlQkdDzRqmW/giphy.gif" width="40" alt="Postman">
-      <br/>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-    </td>
-    <td align="center">
-      <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="40" alt="GitLab">
-      <br/>
-      <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-    </td>
-  </tr>
-</table>
+| **Frontend Core** | **Backend Architecture** | **Data Science & ML** | **Tools & Workflow** |
+|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /> | <img src="https://skillicons.dev/icons?i=fastapi,postgres,python&theme=dark" /><br/><img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel&theme=dark" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48" alt="canva" /> |
 
 </div>
 
+---
+
+<!-- OPEN SOURCE CONTRIBUTIONS -->
+## 🌍 Open Source Ecosystem
+
+<div align="center">
+
+<table border="0" width="80%">
+  <thead>
+    <tr align="center">
+      <th width="30%">Organization / Program</th>
+      <th width="25%">Role</th>
+      <th width="25%">Status</th>
+      <th width="20%">Impact</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr align="center">
+      <td>
+        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="20" /> <b>GSSOC'25</b>
+      </td>
+      <td>Contributor</td>
+      <td><img src="https://img.shields.io/badge/Active-2ea44f?style=flat-square" /></td>
+      <td>3+ PRs</td>
+    </tr>
+    <tr align="center">
+      <td>
+        <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="20" /> <b>OSCI'25</b>
+      </td>
+      <td>Participant</td>
+      <td><img src="https://img.shields.io/badge/Active-2ea44f?style=flat-square" /></td>
+      <td>2+ PRs</td>
+    </tr>
+    <tr align="center">
+      <td>
+        <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="20" /> <b>Apertre'25</b>
+      </td>
+      <td>Core Member</td>
+      <td><img src="https://img.shields.io/badge/Collaborating-blue?style=flat-square" /></td>
+      <td>Features</td>
+    </tr>
+  </tbody>
+</table>
 
 <br/>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50">
-  <br/>
-  <i>"Learning one technology at a time, building the future one line of code at a time!"</i>
+<a href="https://www.holopin.io/userbadge/cm9fynayq05890clg6zahfxuk">
+  <img src="https://holopin.me/itzsudipta" alt="Holopin Badges" height="120" />
+</a>
+
 </div>
 
 ---
 
-## 🌟 Open Source Journey & Achievements
+<!-- GITHUB ANALYTICS DASHBOARD -->
+## 📊 Developer Metrics
 
 <div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80">
-  <br/>
-  <i>"Contributing to the future, one commit at a time!"</i>
+  <table border="0" width="90%">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=itzsudipta&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="Stats" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzsudipta&theme=tokyonight&hide_border=true" alt="Streak" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <br />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzsudipta&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br/>
+<br />
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=800&color=FF6B6B&center=true&vCenter=true&width=600&lines=🚀+Active+in+3+Major+Programs;💡+6+Merged+Pull+Requests;🌟+Building+for+Tomorrow;🤝+Growing+with+Community!" alt="Contribution Stats" />
-</div>
-
-<br/>
-
-### 🏆 Program Participation Dashboard
-
-<table align="center" cellpadding="10">
-  <tr>
-    <th>Program</th>
-    <th>Status</th>
-    <th>PRs Merged</th>
-  </tr>
-  <tr>
-    <td><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30" alt="GSSOC Logo" /> GSSOC'25</td>
-    <td>🎯 Active Contributor</td>
-    <td>3+ PRs</td>
-  </tr>
-  <tr>
-    <td><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="30" alt="OSCI Logo" /> OSCI'25</td>
-    <td>🚀 Participant</td>
-    <td>2+ PRs</td>
-  </tr>
-  <tr>
-    <td><img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30" alt="Apertre Logo" /> Apertre'25</td>
-    <td>💡 Active Member</td>
-    <td>1+ PRs</td>
-  </tr>
-</table>
-
----
-## 🏅 Open Source Contribution Badges
-
-<p align="center">
-  <a href="https://www.holopin.io/userbadge/cm9fynayq05890clg6zahfxuk">
-    <img src="https://holopin.me/itzsudipta" alt="An image of @itzsudipta's Holopin badges, which is a link to view their full Holopin profile">
-  </a>
-</p>
-
----
-
-## 📊 GitHub Analytics & Achievements
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=itzsudipta&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzsudipta&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzsudipta&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="350"/>
-    </td>
-    <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzsudipta&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="400" height="200"/>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-
-
-### 🏅 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itzsudipta&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2" alt="GitHub Trophies" />
-</div>
----
-
-## 📊 Repository Analysis
-
-<div align="center">
-
-## 🔝 Top Contributed Repositories
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=itzsudipta&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
-
----
-
+<!-- FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" alt="Footer" />
-</div>
-
-<div align="center">
-  <i>⭐ From <a href="https://github.com/itzsudipta">Sudipta Sarkar</a> with ❤️ - Still learning, still growing, still coding!</i>
+  <br />
+  <p>
+    <i>"Algorithms are the poetry of computing."</i><br>
+    <a href="https://github.com/itzsudipta"><b>© Sudipta Sarkar</b></a>
+  </p>
 </div>
