@@ -1,51 +1,25 @@
-<!-- HEADER & BANNER -->
+<!-- HEADER & TYPING -->
 <div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Sudipta%20Sarkar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Final%20Year%20CS%20Student%20%7C%20Not%20Yet%20a%20Developer&descAlignY=60&descSize=20" 
-    alt="Header" 
-  />
-</div>
-
-<!-- DYNAMIC TYPING TEXT -->
-<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Sudipta%20Sarkar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Final%20Year%20CS%20Student%20%7C%20Not%20Yet%20a%20Developer&descAlignY=60&descSize=20" alt="Header" />
   <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=ML+%26+Web+Enthusiast+%7C+Backend+Explorer"
-      alt="Typing Animation"
-    />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=ML+%26+Web+Enthusiast+%7C+Backend+Explorer" alt="Typing Animation" />
   </a>
 </div>
 
-<br />
-
-<!-- CONNECT HUB (MODERN ICONS) -->
+<!-- CONNECT HUB -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/infosudipta/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="50" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:info.sudipta.nit@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="50" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/iam_sudipta_sarkar/">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="50" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="https://iamsudiptasarkar.me/">
-    <img src="https://img.icons8.com/fluency/96/domain.png" height="50" alt="Portfolio" />
-  </a>
+  <a href="https://www.linkedin.com/in/infosudipta/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="45" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:info.sudipta.nit@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="45" alt="Gmail" /></a>&nbsp;
+  <a href="https://www.instagram.com/iam_sudipta_sarkar/"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="45" alt="Instagram" /></a>&nbsp;
+  <a href="https://iamsudiptasarkar.me/"><img src="https://img.icons8.com/fluency/96/domain.png" height="45" alt="Portfolio" /></a>
 </div>
-
-<br />
 
 <!-- ABOUT SECTION -->
 ## ⚡ Profile Overview
-
 <table>
   <tr>
-    <td width="65%" valign="center">
-      
+    <td width="70%" valign="center">
+
 > **"Some days the math makes sense, some days it feels like a personal attack—but I love the chaos."** 📉📈
 
 Hi, I’m **Sudipta Sarkar**, a Final Year Computer Science student at **Narula Institute of Technology**.
@@ -58,11 +32,9 @@ When I'm not decoding algorithms, I mess around with **Backend Development**—b
 *   🧠 **The Mission:** Turning the "Magic" of ML into logic I understand
 *   🛠️ **The Hobby:** Building fun backend experiments
 *   📈 **The Mindset:** Leveling up daily, step by step
-
     </td>
-    <td width="35%" align="center">
-      <!-- YOUR PERSONAL IMAGE -->
-      <img src="mypersonal/typing.gif.gif" width="300" alt="Sudipta Coding" style="border-radius: 10px;" />
+    <td width="30%" align="center">
+      <img src="mypersonal/typing.gif.gif" width="250" alt="Sudipta Coding" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
@@ -71,7 +43,6 @@ When I'm not decoding algorithms, I mess around with **Backend Development**—b
 
 <!-- TECH ARSENAL -->
 ## 🛠️ Technical Arsenal
-
 <div align="center">
   
 | **Frontend Core** | **Backend Architecture** | **Data Science & ML** | **Tools & Workflow** |
@@ -82,12 +53,10 @@ When I'm not decoding algorithms, I mess around with **Backend Development**—b
 
 ---
 
-<!-- OPEN SOURCE CONTRIBUTIONS -->
+<!-- OPEN SOURCE -->
 ## 🌍 Open Source Ecosystem
-
 <div align="center">
-
-<table border="0" width="80%">
+<table border="0" width="90%">
   <thead>
     <tr align="center">
       <th width="30%">Organization / Program</th>
@@ -98,25 +67,19 @@ When I'm not decoding algorithms, I mess around with **Backend Development**—b
   </thead>
   <tbody>
     <tr align="center">
-      <td>
-        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="20" /> <b>GSSOC'25</b>
-      </td>
+      <td><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="18" /> <b>GSSOC'25</b></td>
       <td>Contributor</td>
       <td><img src="https://img.shields.io/badge/Active-2ea44f?style=flat-square" /></td>
       <td>3+ PRs</td>
     </tr>
     <tr align="center">
-      <td>
-        <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="20" /> <b>OSCI'25</b>
-      </td>
+      <td><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="18" /> <b>OSCI'25</b></td>
       <td>Participant</td>
       <td><img src="https://img.shields.io/badge/Active-2ea44f?style=flat-square" /></td>
       <td>2+ PRs</td>
     </tr>
     <tr align="center">
-      <td>
-        <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="20" /> <b>Apertre'25</b>
-      </td>
+      <td><img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="18" /> <b>Apertre'25</b></td>
       <td>Core Member</td>
       <td><img src="https://img.shields.io/badge/Collaborating-blue?style=flat-square" /></td>
       <td>Features</td>
@@ -124,46 +87,23 @@ When I'm not decoding algorithms, I mess around with **Backend Development**—b
   </tbody>
 </table>
 
-<br/>
-
 <a href="https://www.holopin.io/userbadge/cm9fynayq05890clg6zahfxuk">
-  <img src="https://holopin.me/itzsudipta" alt="Holopin Badges" height="120" />
+  <img src="https://holopin.me/itzsudipta" alt="Holopin Badges" height="90" />
 </a>
-
 </div>
 
 ---
 
-<!-- GITHUB ANALYTICS DASHBOARD -->
+<!-- ANALYTICS -->
 ## 📊 Developer Metrics
-
 <div align="center">
-  <table border="0" width="90%">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=itzsudipta&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="Stats" width="100%" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzsudipta&theme=tokyonight&hide_border=true" alt="Streak" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <br />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzsudipta&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=itzsudipta&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&layout=compact" height="140" alt="Stats" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzsudipta&theme=tokyonight&hide_border=true" height="140" alt="Streak" />
 </div>
-
-<br />
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" alt="Footer" />
-  <br />
-  <p>
-    <i>"Algorithms are the poetry of computing."</i><br>
-    <a href="https://github.com/itzsudipta"><b>© Sudipta Sarkar</b></a>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=60&section=footer" alt="Footer" />
+  <p><i>"Algorithms are the poetry of computing."</i><br><a href="https://github.com/itzsudipta"><b>© Sudipta Sarkar</b></a></p>
 </div>
