@@ -58,7 +58,7 @@ When I'm not decoding algorithms, I mess around with **Backend Development**—b
 ## 🌍 Open Source Ecosystem
 <div align="center">
 <a href="https://www.holopin.io/userbadge/cm9fynayq05890clg6zahfxuk">
-  <img src="https://holopin.me/itzsudipta" alt="Holopin Badges" height="100" />
+  <img src="https://holopin.me/itzsudipta" alt="Holopin Badges" height="195" />
 </a>
 </div>
 
