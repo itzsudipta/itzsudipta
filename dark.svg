@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 610" width="100%" height="100%" style="background-color:#0A101F; font-family: monospace;">
+<rect x="20" y="20" width="1140" height="570" fill="none" stroke="#22D3EE" stroke-width="1.5" rx="8"/>
+<text x="40" y="45" fill="#22D3EE" font-size="14" font-weight="bold">profile.sh --live</text>
+
+        <circle cx="1000" cy="40" r="4" fill="#EF4444">
+            <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/>
+        </circle>
+        <text x="1015" y="45" fill="#EF4444" font-size="12" font-weight="bold">LIVE</text>
+        <rect x="1060" y="28" width="90" height="24" rx="12" fill="#10B981" opacity="0.2"/>
+        <text x="1075" y="44" fill="#10B981" font-size="14" font-weight="bold">@itzsudipta</text>
+    
+<text x="520" y="100" fill="#22D3EE" font-size="13" font-weight="bold">SYSTEM.INFO</text>
+
+            <text x="520" y="140" fill="#22D3EE" font-size="14" opacity="0.8">
+                Subject <tspan opacity="0.3">..................................</tspan> 
+            </text>
+            <text x="1000" y="140" fill="#22D3EE" font-size="14" text-anchor="end" font-weight="bold">Sudipta Sarkar</text>
+        
+
+            <text x="520" y="168" fill="#22D3EE" font-size="14" opacity="0.8">
+                Role <tspan opacity="0.3">.......................</tspan> 
+            </text>
+            <text x="1000" y="168" fill="#22D3EE" font-size="14" text-anchor="end" font-weight="bold">Full-Stack Software Engineer</text>
+        
+
+            <text x="520" y="196" fill="#22D3EE" font-size="14" opacity="0.8">
+                Origin <tspan opacity="0.3">.....................</tspan> 
+            </text>
+            <text x="1000" y="196" fill="#22D3EE" font-size="14" text-anchor="end" font-weight="bold">Chakdaha, West Bengal, India</text>
+        
+
+            <text x="520" y="224" fill="#22D3EE" font-size="14" opacity="0.8">
+                Status <tspan opacity="0.3">...................</tspan> 
+            </text>
+            <text x="1000" y="224" fill="#22D3EE" font-size="14" text-anchor="end" font-weight="bold">Building + Learning + Shipping</text>
+        
+
+            <text x="520" y="267" fill="#22D3EE" font-size="14" opacity="0.8">
+                Core.Lang <tspan opacity="0.3">.......................</tspan> 
+            </text>
+            <text x="1000" y="267" fill="#22D3EE" font-size="14" text-anchor="end" font-weight="bold">Python, JavaScript, SQL</text>
+        
+
+            <text x="520" y="310" fill="#22D3EE" font-size="14" opacity="0.8">
+                Core.Framework <tspan opacity="0.3">...................</tspan> 
+            </text>
+            <text x="1000" y="310" fill="#22D3EE" font-size="14" text-anchor="end" font-weight="bold">Django, FastAPI, Flask</text>
+        
+
+            <text x="520" y="338" fill="#22D3EE" font-size="14" opacity="0.8">
+                Core.Data <tspan opacity="0.3">......................</tspan> 
+            </text>
+            <text x="1000" y="338" fill="#22D3EE" font-size="14" text-anchor="end" font-weight="bold">PostgreSQL, MySQL, Redis</text>
+        
+
+            <text x="520" y="366" fill="#22D3EE" font-size="14" opacity="0.8">
+                Core.ML <tspan opacity="0.3">....................</tspan> 
+            </text>
+            <text x="1000" y="366" fill="#22D3EE" font-size="14" text-anchor="end" font-weight="bold">Scikit-learn, OpenCV, Pandas</text>
+        
+
+            <text x="520" y="394" fill="#22D3EE" font-size="14" opacity="0.8">
+                Core.Infra <tspan opacity="0.3">..............</tspan> 
+            </text>
+            <text x="1000" y="394" fill="#22D3EE" font-size="14" text-anchor="end" font-weight="bold">AWS, Docker, Kubernetes, Vercel</text>
+        
+
+            <text x="520" y="422" fill="#22D3EE" font-size="14" opacity="0.8">
+                Grid.LinkedIn <tspan opacity="0.3">...........................</tspan> 
+            </text>
+            <text x="1000" y="422" fill="#22D3EE" font-size="14" text-anchor="end" font-weight="bold">/in/infosudipta</text>
+        
+
+            <text x="520" y="450" fill="#22D3EE" font-size="14" opacity="0.8">
+                Grid.GitHub <tspan opacity="0.3">..................................</tspan> 
+            </text>
+            <text x="1000" y="450" fill="#22D3EE" font-size="14" text-anchor="end" font-weight="bold">itzsudipta</text>
+        
+
+            <text x="520" y="478" fill="#22D3EE" font-size="14" opacity="0.8">
+                Grid.Twitter <tspan opacity="0.3">............................</tspan> 
+            </text>
+            <text x="1000" y="478" fill="#22D3EE" font-size="14" text-anchor="end" font-weight="bold">TheSudiptaVerse</text>
+        
+<!-- PORTRAIT MAP GOES HERE -->
+<image href="portrait_dark_preview.png" x="40" y="80" width="400" height="480" preserveAspectRatio="xMidYMid slice" />
+<!-- OPTIMAL TRANSPORT SWARM GOES HERE -->
+</svg>
