@@ -5,7 +5,7 @@
 </div>
 
 <br/> -->
-<!-- ===== END BANNER ===== --> -->
+<!-- ===== END BANNER ===== -->
 
 <!-- ===== WHO I AM ===== -->
 
@@ -19,8 +19,8 @@ Alongside software development, I have a strong interest in academic research an
 ## Research & Publication
 
 **Published Research Paper**
-A study on Retrieval-Augmented Generation (RAG) combined with diffusion models, co-authored with Prof. Ritwika Mukherjee.
-[View Paper (DOI: 10.1109/ICC-CNS70518.2026.11606144)](https://doi.org/10.1109/ICC-CNS70518.2026.11606144)
+A study on Retrieval-Augmented Generation (RAG) combined with diffusion models, co-authored with Prof. Ritwika Mukherjee, Assistant Professor , NiT Kolkata.
+[IEEE (DOI: 10.1109/ICC-CNS70518.2026.11606144)](https://doi.org/10.1109/ICC-CNS70518.2026.11606144)
 
 **Patent 1 — Co-Inventor, Published Application**
 Ai-driven victim detection using tof sensor data in multi-sensor uavs.
@@ -38,47 +38,7 @@ disaster management.
 <!-- Table grid: one row per category, category label in the first column, icons aligned in the rest. -->
 <!-- Replace each src="ICON_URL_HERE" with your own icon file/URL. Icon size fixed at 32x32. -->
 
-<table>
-<tr>
-  <td><b>Languages</b></td>
-  <td><img src="./icons/Python.svg" width="32" height="32" alt="Python" /></td>
-  <td><img src="./icons/Java.svg" width="32" height="32" alt="Java" /></td>
-  <td><img src="./icons/JavaScript.svg" width="32" height="32" alt="JavaScript" /></td>
-  
-</tr>
-<tr>
-  <td><b>Backend & Frameworks</b></td>
-  <td><img src="./icons/FastAPI.svg" width="32" height="32" alt="FastAPI" /></td>
-  <td><img src="./icons/Django.svg" width="32" height="32" alt="Django" /></td>
-</tr>
-<tr>
-  <td><b>Frontend</b></td>
-  <td><img src="./icons/HTML5.svg" width="32" height="32" alt="HTML5" /></td>
-  <td><img src="./icons/CSS3.svg" width="32" height="32" alt="CSS" /></td>
-</tr>
-<tr>
-  <td><b>Databases</b></td>
-  <td><img src="./icons/PostgresSQL.svg" width="32" height="32" alt="PostgreSQL" /></td>
-  <td><img src="./icons/MySQL.svg" width="32" height="32" alt="MySQL" /></td>
-</tr>
-<tr>
-  <td><b>Cloud & DevOps</b></td>
-  <td><img src="./icons/AWS.svg" width="32" height="32" alt="AWS" /></td>
-  <td><img src="./icons/Docker.svg" width="32" height="32" alt="Docker" /></td>
-  <td><img src="./icons/Kubernetes.svg" width="32" height="32" alt="Kubernetes" /></td>
-</tr>
-<tr>
-  <td><b>Tools</b></td>
-  <td><img src="./icons/GitHub.svg" width="32" height="32" alt="Github" /></td>
-  <td><img src="./icons/GitHub Actions.svg" width="32" height="32" alt="GitHub Actions" /></td>
-  <td><img src="./icons/Postman.svg" width="32" height="32" alt="Postman" /></td>
-</tr>
-<tr>
-  <td><b>ML & Computer Vision</b></td>
-  <td><img src="./icons/OpenCV.svg" width="32" height="32" alt="OpenCV" /></td>
-  <td><img src="./icons/scikit-learn.svg" width="32" height="32" alt="Scikit-learn" /></td>
-</tr>
-</table>
+<img src="./icons/Python.svg" width="32" height="32" alt="Python" />&nbsp;&nbsp;<img src="./icons/Java.svg" width="32" height="32" alt="Java" />&nbsp;&nbsp;<img src="./icons/JavaScript.svg" width="32" height="32" alt="JavaScript" />&nbsp;&nbsp;<img src="./icons/HTML5.svg" width="32" height="32" alt="HTML5" />&nbsp;&nbsp;<img src="./icons/CSS3.svg" width="32" height="32" alt="CSS" />&nbsp;&nbsp;<img src="./icons/FastAPI.svg" width="32" height="32" alt="FastAPI" />&nbsp;&nbsp;<img src="./icons/Django.svg" width="32" height="32" alt="Django" />&nbsp;&nbsp;<img src="./icons/PostgresSQL.svg" width="32" height="32" alt="PostgreSQL" />&nbsp;&nbsp;<img src="./icons/MySQL.svg" width="32" height="32" alt="MySQL" />&nbsp;&nbsp;<img src="./icons/AWS.svg" width="32" height="32" alt="AWS" />&nbsp;&nbsp;<img src="./icons/Docker.svg" width="32" height="32" alt="Docker" />&nbsp;&nbsp;<img src="./icons/Kubernetes.svg" width="32" height="32" alt="Kubernetes" />&nbsp;&nbsp;<img src="./icons/GitHub.svg" width="32" height="32" alt="GitHub" />&nbsp;&nbsp;<img src="./icons/GitHub Actions.svg" width="32" height="32" alt="GitHub Actions" />&nbsp;&nbsp;<img src="./icons/Postman.svg" width="32" height="32" alt="Postman" />&nbsp;&nbsp;<img src="./icons/OpenCV.svg" width="32" height="32" alt="OpenCV" />&nbsp;&nbsp;<img src="./icons/scikit-learn.svg" width="32" height="32" alt="Scikit-learn" />
 
 <br/>
 
