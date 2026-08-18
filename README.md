@@ -29,9 +29,7 @@ Ai-driven victim detection using tof sensor data in multi-sensor uavs.
 **Patent 2 — Co-Inventor, Published Application**
 UAVs integrated with ai accelerator for real-time delay tolerant intelligence system in
 disaster management.
-
 <!-- **[For More, Visit My Portfolio →](PORTFOLIO_LINK_HERE)** -->
-<br/>
 
 <!-- ===== TECH STACK (Manual icons — fixed size) ===== -->
 ## My Tech Stack
@@ -39,8 +37,6 @@ disaster management.
 <!-- Replace each src="ICON_URL_HERE" with your own icon file/URL. Icon size fixed at 32x32. -->
 
 <img src="./icons/Python.svg" width="32" height="32" alt="Python" />&nbsp;&nbsp;<img src="./icons/Java.svg" width="32" height="32" alt="Java" />&nbsp;&nbsp;<img src="./icons/JavaScript.svg" width="32" height="32" alt="JavaScript" />&nbsp;&nbsp;<img src="./icons/HTML5.svg" width="32" height="32" alt="HTML5" />&nbsp;&nbsp;<img src="./icons/CSS3.svg" width="32" height="32" alt="CSS" />&nbsp;&nbsp;<img src="./icons/FastAPI.svg" width="32" height="32" alt="FastAPI" />&nbsp;&nbsp;<img src="./icons/Django.svg" width="32" height="32" alt="Django" />&nbsp;&nbsp;<img src="./icons/PostgresSQL.svg" width="32" height="32" alt="PostgreSQL" />&nbsp;&nbsp;<img src="./icons/MySQL.svg" width="32" height="32" alt="MySQL" />&nbsp;&nbsp;<img src="./icons/AWS.svg" width="32" height="32" alt="AWS" />&nbsp;&nbsp;<img src="./icons/Docker.svg" width="32" height="32" alt="Docker" />&nbsp;&nbsp;<img src="./icons/Kubernetes.svg" width="32" height="32" alt="Kubernetes" />&nbsp;&nbsp;<img src="./icons/GitHub.svg" width="32" height="32" alt="GitHub" />&nbsp;&nbsp;<img src="./icons/GitHub Actions.svg" width="32" height="32" alt="GitHub Actions" />&nbsp;&nbsp;<img src="./icons/Postman.svg" width="32" height="32" alt="Postman" />&nbsp;&nbsp;<img src="./icons/OpenCV.svg" width="32" height="32" alt="OpenCV" />&nbsp;&nbsp;<img src="./icons/scikit-learn.svg" width="32" height="32" alt="Scikit-learn" />
-
-<br/>
 
 <!-- ===== CONTRIBUTION SNAKE ===== -->
 ## Contributions
