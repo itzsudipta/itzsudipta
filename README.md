@@ -1,25 +1,10 @@
-<!-- ===== BANNER (Manual — fixed size) =====
-<!-- Recommended banner asset size: 1200 x 300 px (4:1 ratio). Replace SRC below with your banner image URL. -->
-<!-- <div align="center">
-  <img src="https://raw.githubusercontent.com/itzsudipta/itzsudipta/main/light.svg" alt="Sudipta Sarkar Banner" width="1200" height="300" />
-</div>
+# Who Am I
+Computer Science Engineer from Narula Institute of Technology, Kolkata, with a strong foundation in software development and a keen interest in academic research. My work centers on designing and building scalable, maintainable backend systems using Python, complemented by clean frontend implementations to deliver complete web applications. I have practical experience deploying and managing these applications on AWS, with a focus on reliability and scalability.<br><br>In parallel with development work, I actively pursue research in Computer Vision and Deep Learning, with particular interest in translating emerging AI methodologies into applied solutions. My research experience includes work on Diffusion Models, with applications explored in Fashion Engineering and AI-driven fashion design. I have also authored a patent journal on UAV and LiDAR sensor technology integrated with Computer Vision.
 
-<br/> -->
-<!-- ===== END BANNER ===== -->
-
-<!-- ===== WHO I AM ===== -->
-
-## Who I Am
-
-A  Computer Science Engineer from Narula Institute of Technology Kolkata, with a strong interest in software development, scalable web applications, and academic research. I mainly work with Python to build practical and efficient backend systems, along with simple and clean frontend technologies to create complete web applications. I enjoy designing applications that are easy to maintain, scalable, and reliable, and I am also interested in deploying and managing these applications on AWS.
-
-Alongside software development, I have a strong interest in academic research and journal publications, with a primary focus on Computer Vision and Deep Learning. I enjoy exploring emerging AI techniques, working with datasets, experimenting with machine learning and deep learning models, and understanding how research concepts can be transformed into practical solutions.I have also conducted research on Diffusion Models and explored their applications in Fashion Engineering and AI-driven fashion design.
-<br/>
-<!-- ===== RESEARCH & PUBLICATION ===== -->
 ## Research & Publication
 
 **Published Research Paper**
-A study on Retrieval-Augmented Generation (RAG) combined with diffusion models, co-authored with Prof. Ritwika Mukherjee, Assistant Professor , NiT Kolkata.
+A study on Retrieval-Augmented Generation (RAG) combined with diffusion models, co-authored with Prof. Ritwika Mukherjee, Assistant Professor, NiT Kolkata.
 [IEEE (DOI: 10.1109/ICC-CNS70518.2026.11606144)](https://doi.org/10.1109/ICC-CNS70518.2026.11606144)
 
 **Patent 1 — Co-Inventor, Published Application**
@@ -27,21 +12,15 @@ Ai-driven victim detection using tof sensor data in multi-sensor uavs.
 <!-- [View Patent](PATENT_1_LINK_HERE) -->
 
 **Patent 2 — Co-Inventor, Published Application**
-UAVs integrated with ai accelerator for real-time delay tolerant intelligence system in
-disaster management.
-<!-- **[For More, Visit My Portfolio →](PORTFOLIO_LINK_HERE)** -->
+UAVs integrated with ai accelerator for real-time delay tolerant intelligence system in disaster management.
 
-<!-- ===== TECH STACK (Manual icons — fixed size) ===== -->
-## My Tech Stack
-<!-- Table grid: one row per category, category label in the first column, icons aligned in the rest. -->
-<!-- Replace each src="ICON_URL_HERE" with your own icon file/URL. Icon size fixed at 32x32. -->
+*For more details on my ongoing research, full publication history, and upcoming projects, feel free to visit my [Personal Website](https://d410xxx0ta8r3.cloudfront.net/).*
 
-<img src="./icons/Python.svg" width="32" height="32" alt="Python" />&nbsp;&nbsp;<img src="./icons/Java.svg" width="32" height="32" alt="Java" />&nbsp;&nbsp;<img src="./icons/JavaScript.svg" width="32" height="32" alt="JavaScript" />&nbsp;&nbsp;<img src="./icons/HTML5.svg" width="32" height="32" alt="HTML5" />&nbsp;&nbsp;<img src="./icons/CSS3.svg" width="32" height="32" alt="CSS" />&nbsp;&nbsp;<img src="./icons/FastAPI.svg" width="32" height="32" alt="FastAPI" />&nbsp;&nbsp;<img src="./icons/Django.svg" width="32" height="32" alt="Django" />&nbsp;&nbsp;<img src="./icons/PostgresSQL.svg" width="32" height="32" alt="PostgreSQL" />&nbsp;&nbsp;<img src="./icons/MySQL.svg" width="32" height="32" alt="MySQL" />&nbsp;&nbsp;<img src="./icons/AWS.svg" width="32" height="32" alt="AWS" />&nbsp;&nbsp;<img src="./icons/Docker.svg" width="32" height="32" alt="Docker" />&nbsp;&nbsp;<img src="./icons/Kubernetes.svg" width="32" height="32" alt="Kubernetes" />&nbsp;&nbsp;<img src="./icons/GitHub.svg" width="32" height="32" alt="GitHub" />&nbsp;&nbsp;<img src="./icons/GitHub Actions.svg" width="32" height="32" alt="GitHub Actions" />&nbsp;&nbsp;<img src="./icons/Postman.svg" width="32" height="32" alt="Postman" />&nbsp;&nbsp;<img src="./icons/OpenCV.svg" width="32" height="32" alt="OpenCV" />&nbsp;&nbsp;<img src="./icons/scikit-learn.svg" width="32" height="32" alt="Scikit-learn" />
+# Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-<!-- ===== CONTRIBUTION SNAKE ===== -->
-## Contributions
+# Contribution
 
-<!-- Snake SVG rendered at full width, fixed height ~200px for consistency -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itzsudipta/itzsudipta/output/snake-dark.svg" />
@@ -50,23 +29,13 @@ disaster management.
   </picture>
 </div>
 
-<br/>
+  ## Connect
 
-<!-- ===== CONTACT ===== -->
-## Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/infosudipta) [![X (Twitter)](https://img.shields.io/badge/X_/_Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@TheSudiptaVerse) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.sudipta.nit@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=vercel&logoColor=white)](https://d410xxx0ta8r3.cloudfront.net/)
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/infosudipta/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="32" />
-</a>
-&nbsp;&nbsp;
-<a href="https://x.com/TheSudiptaVerse">
-  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" height="32" />
-</a>
-&nbsp;&nbsp;
-<a href="https://d410xxx0ta8r3.cloudfront.net/">
-  <img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="32" />
-</a>
-
-</div>
+### Random Dev Quote
+<p align="center">
+  <a href="https://github.com/itzsudipta">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  </a>
+</p>
