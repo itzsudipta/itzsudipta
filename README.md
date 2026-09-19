@@ -14,7 +14,7 @@ Co-authored with Prof. Ritwika Mukherjee, Assistant Professor, NIT Kolkata
 **Patent 2 — Co-Inventor** *(Published Application)*
 *UAVs Integrated with AI Accelerator for Real-Time Delay-Tolerant Intelligence System in Disaster Management*
 
-For more on my ongoing research, full publication history, and upcoming projects, visit my [Personal Website](https://d410xxx0ta8r3.cloudfront.net/).
+For more on my ongoing research, full publication history, and upcoming projects, visit my [Personal Website](https://devsudipta.vercel.app/).
 
 ## Open Source Journey 
 
@@ -36,7 +36,7 @@ For more on my ongoing research, full publication history, and upcoming projects
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/infosudipta) [![X (Twitter)](https://img.shields.io/badge/X_/_Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@TheSudiptaVerse) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.sudipta.nit@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=vercel&logoColor=white)](https://d410xxx0ta8r3.cloudfront.net/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/infosudipta) [![X (Twitter)](https://img.shields.io/badge/X_/_Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@TheSudiptaVerse) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.sudipta.nit@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=vercel&logoColor=white)](https://devsudipta.vercel.app/)
 
 ### Random Dev Quote
 
