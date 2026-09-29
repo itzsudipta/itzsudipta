@@ -23,22 +23,22 @@ Computer Science Engineer from Narula Institute of Technology, Kolkata, with a s
     </tr>
     <tr>
       <td align="center">2</td>
-      <td><b>Patent</b></td>
+      <td><b>Patent 1 — Co-Inventor</b></td>
       <td><i>AI-Driven Victim Detection Using ToF Sensor Data in Multi-Sensor UAVs</i></td>
       <td>Published Application</td>
-      <td align="center"><a href="https://devsudipta.vercel.app/research">View Patent</a></td>
+      <td align="center"><a href="https://devsudipta.vercel.app/">View Patent</a></td>
     </tr>
     <tr>
       <td align="center">3</td>
-      <td><b>Patent</b></td>
+      <td><b>Patent 2 — Co-Inventor</b></td>
       <td><i>UAVs Integrated with AI Accelerator for Real-Time Delay-Tolerant Intelligence System in Disaster Management</i></td>
       <td>Published Application</td>
-      <td align="center"><a href="https://devsudipta.vercel.app/research">View Patent</a></td>
+      <td align="center"><a href="https://devsudipta.vercel.app/">View Patent</a></td>
     </tr>
   </tbody>
 </table>
 
-For more on my ongoing research, full publication history, and upcoming projects, visit my [Portfolio](https://devsudipta.vercel.app/).
+For more on my ongoing research, full publication history, and upcoming projects, visit my [Personal Website](https://devsudipta.vercel.app/).
 
 ## Featured Projects
 
@@ -90,7 +90,7 @@ For more on my ongoing research, full publication history, and upcoming projects
     <tr>
       <td align="center">3</td>
       <td><b><a href="https://github.com/itzsudipta/NIRIKSHA-Ai-Powered-TOF-Drone-System">NIRIKSHA - AI-Powered TOF Drone System</a></b></td>
-      <td>Patent-related AI system for Time-of-Flight drones using YOLOv8 with ensemble learning for real-time detection (0.84 accuracy), served through a Flask backend and a web interface. Built as the Hack-o-NiT 2026 project for my college hackathon</td>
+      <td>Patent-related AI system for Time-of-Flight drones using YOLOv8 with ensemble learning for real-time detection (0.84 accuracy), served through a Flask backend and a web interface. Built as the <b>Hack-o-NiT 2026</b> project for my college hackathon.</td>
       <td>
         <b>AI / Computer Vision</b><br>
         <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -126,7 +126,7 @@ For more on my ongoing research, full publication history, and upcoming projects
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/infosudipta) [![X (Twitter)](https://img.shields.io/badge/X_/_Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@TheSudiptaVerse) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.sudipta.nit@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=vercel&logoColor=white)](https://devsudipta.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/infosudipta) [![X (Twitter)](https://img.shields.io/badge/X_/_Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@TheSudiptaVerse) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.sudipta.nit@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=vercel&logoColor=white)](https://devsudipta.vercel.app/) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/itzsudipta/) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1092809721368551515) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/thesudiptaverse95)
 
 ### Random Dev Quote
 
