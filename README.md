@@ -90,7 +90,7 @@ For more on my ongoing research, full publication history, and upcoming projects
     <tr>
       <td align="center">3</td>
       <td><b><a href="https://github.com/itzsudipta/NIRIKSHA-Ai-Powered-TOF-Drone-System">NIRIKSHA - AI-Powered TOF Drone System</a></b></td>
-      <td>Patent-related AI system for Time-of-Flight drones using YOLOv8 with ensemble learning for real-time detection (0.84 accuracy), served through a Flask backend and a web interface.</td>
+      <td>Patent-related AI system for Time-of-Flight drones using YOLOv8 with ensemble learning for real-time detection (0.84 accuracy), served through a Flask backend and a web interface. Built as the Hack-o-NiT 2026 project for my college hackathon</td>
       <td>
         <b>AI / Computer Vision</b><br>
         <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
