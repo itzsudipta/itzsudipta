@@ -74,7 +74,7 @@ For more on my ongoing research, full publication history, and upcoming projects
 
 ## Open Source Journey 
 
-- **GirlScript Summer of Code (2025 & 2026):** Contributed to community projects by fixing bugs and improving features.
+- **GirlScript Summer of Code (2024 & 2025):** Contributed to community projects by fixing bugs and improving features.
 - **Apertre 3.0 (2025):** Worked on open source projects and collaborated with maintainers to deliver improvements.
 - **Hacktoberfest 2025:** Contributed to open source projects during Hacktoberfest 2025, submitting pull requests and collaborating with maintainers.
 
