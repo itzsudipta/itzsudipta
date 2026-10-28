@@ -1,3 +1,5 @@
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+
 # Who Am I
 Computer Science Engineer from Narula Institute of Technology, Kolkata, with a strong foundation in software development and a keen interest in academic research. My work centers on designing and building scalable, maintainable backend systems using Python, complemented by clean frontend implementations to deliver complete web applications. I have practical experience deploying and managing these applications on AWS, with a focus on reliability and scalability.<br><br>In parallel with development work, I actively pursue research in Computer Vision and Deep Learning, with particular interest in translating emerging AI methodologies into applied solutions. My research experience includes work on Diffusion Models, with applications explored in Fashion Engineering and AI-driven fashion design. I have also authored a patent journal on UAV and LiDAR sensor technology integrated with Computer Vision.
 
