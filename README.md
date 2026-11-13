@@ -1,5 +1,5 @@
 # Who Am I
-Computer Science Engineer from Narula Institute of Technology, Kolkata, focused on building scalable Java backend systems (Spring Boot) with frontend integration, deployed and managed on AWS with Docker and CI/CD.<br><br>I also pursue research in Computer Vision and Deep Learning, including Diffusion Models for AI-driven fashion design, and UAV and LiDAR-based sensing with Computer Vision. I'm a co-inventor on two published patent applications.
+Computer Science Engineer from Narula Institute of Technology, Kolkata, focused on building scalable Java backend systems (Spring Boot) with frontend integration, deployed and managed on AWS with Docker and CI/CD.<br><br>I also pursue research in Computer Vision and Deep Learning, including Diffusion Models for AI-driven fashion design, and UAV and LiDAR-based sensing with Computer Vision. I'm a co-inventor on two published patent applications.<br><br>Visit my [portfolio](https://sudiptadev.in/) for more details.
 
 ## Tech Stack
 ### Languages
